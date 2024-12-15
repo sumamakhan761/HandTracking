@@ -3,7 +3,7 @@
 - Developed a real-time hand tracking and gesture recognition system using Python, OpenCV, and MediaPipe.
 - The application identifies hand landmarks, tracks gestures
 - Calculates distances between key points for interaction purposes.
-- And checkout the video Below ....
+- And checkout the video is Below ....
 ## Run Locally
 
 ###  ☁️ Clone the project
